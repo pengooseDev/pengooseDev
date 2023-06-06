@@ -1,7 +1,24 @@
 
 <h2 align="center">🥳 Hello, I'm Pengoose!</h2>
+
 <p align="center">
-  
+  <div>I'm always eager to learn and ready for new challenges. I believe in the power of programming to transform and improve the lives of people around the world. </div>
+  <span>Feel free to reach out if you'd like to connect!</span>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901" width="300"/>
+</p>
+<p align="center">
+  <a href="mailto:pengoose_dev@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@pengoose_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
+  </a>
+  <a href="https://pengoose.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/GoosePlayer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GoosePlayer"/>
+  </a>
 </p>
 
 ---
@@ -22,27 +39,3 @@
 </table>
 
 ---
-
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:pengoose_dev@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@pengoose_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
-  </a>
-  <a href="https://pengoose.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/GoosePlayer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GoosePlayer"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">💬 About Me</h2>
-
-<p align="center">
-  <div>Hello, I'm Pengoose! I'm a software developer focusing on Front-End development. </div>
-  <span>I'm always eager to learn and ready for new challenges. I believe in the power of programming to transform and improve the lives of people around the world. </span>
-  <span>Feel free to reach out if you'd like to connect!</span>
-</p>
