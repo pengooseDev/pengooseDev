@@ -1,10 +1,5 @@
 
-<h2 align="center">🥳 Hello, I'm Pengoose!</h2>
-
-<p align="center">
-  <div>I'm always eager to learn and ready for new challenges. I believe in the power of programming to transform and improve the lives of people around the world. </div>
-  <span>Feel free to reach out if you'd like to connect!</span>
-</p>
+<h2 align="center">Hello, I'm Pengoose!🥳</h2>
 
 <p align="center">
   <img src="https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901" width="300"/>
@@ -19,6 +14,13 @@
   <a href="https://pengoose.dev/" target="_blank">
     <img src="https://img.shields.io/badge/GoosePlayer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GoosePlayer"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <div align="center">I believe in the power of programming to transform and improve the lives of people around the world!</div>
+  <div align="center">Feel free to reach out if you'd like to connect! 😊 </div>
 </p>
 
 ---
