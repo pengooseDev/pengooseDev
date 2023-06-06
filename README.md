@@ -5,11 +5,11 @@
   <img src="https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901" width="300"/>
 </p>
 <p align="center">
-  <a target="_blank" href="mailto:pengoose_dev@naver.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a target="_blank" href="https://velog.io/@pengoose_dev" target="_blank">
     <img src="https://img.shields.io/badge/Tech blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech blog"/>
+  </a>
+  <a target="_blank" href="mailto:pengoose_dev@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://pengoose.dev/" target="_blank">
     <img src="https://img.shields.io/badge/GoosePlayer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GoosePlayer"/>
