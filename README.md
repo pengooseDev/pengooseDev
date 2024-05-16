@@ -33,7 +33,7 @@
       </a>
     </td>
     <td>
-  <a href="https://solved.ac/pengooseDev/">
+  <a href="https://solved.ac/pengoosedev/">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pengooseDev" alt="Solved.ac Profile" />
   </a>
     </td>
