@@ -34,7 +34,7 @@
     </td>
     <td>
   <a href="https://solved.ac/pengoosedev/">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pengooseDev" alt="Solved.ac Profile" />
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pengoosedev" alt="Solved.ac Profile" />
   </a>
     </td>
   </tr>
