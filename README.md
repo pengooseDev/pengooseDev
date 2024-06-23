@@ -1,8 +1,7 @@
-
-<h2 align="center">Hello, I'm Pengoose!🥳</h2>
+<h2 align="center">Life is short, Dance like a penguin</h2>
 
 <p align="center">
-  <img src="https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901" width="300"/>
+  <img src="https://github.com/pengooseDev/pengooseDev/assets/73521518/ebcbc80c-4dd0-471c-af8e-2ec9665a8901" width="350"/>
 </p>
 <p align="center">
   <a target="_blank" href="https://velog.io/@pengoose_dev" target="_blank">
@@ -18,19 +17,10 @@
 
 ---
 
-<p align="center">
-  <div align="center">I believe in the power of programming to transform and improve the lives of people around the world!</div>
-  <div align="center">Feel free to reach out if you'd like to connect! 😊 </div>
-</p>
-
----
-
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="https://github.com/pengooseDev/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pengooseDev&show_icons=true&theme=tokyonight" alt="Pengoose's GitHub stats" />
-      </a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pengooseDev&show_icons=true&theme=tokyonight" alt="Pengoose's GitHub stats" />
     </td>
     <td>
   <a href="https://solved.ac/pengoosedev/">
