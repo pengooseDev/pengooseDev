@@ -15,19 +15,12 @@
   </a>
 </p>
 
----
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pengooseDev&show_icons=true&theme=tokyonight" alt="Pengoose's GitHub stats" />
-    </td>
-    <td>
+
+<p align="center">
   <a href="https://solved.ac/pengoosedev/">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pengoosedev" alt="Solved.ac Profile" />
   </a>
-    </td>
-  </tr>
-</table>
+</p>
 
 ---
